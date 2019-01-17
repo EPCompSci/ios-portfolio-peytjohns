@@ -1,4 +1,4 @@
-# iOS-Portfolio
+# iOS-Portfolio (Peyton Johnson)
 
 2018-2019 Portfolio
 
