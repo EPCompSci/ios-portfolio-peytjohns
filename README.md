@@ -15,6 +15,9 @@ Athena database work for EPHS app - places, clubs, and corresponding info/ pictu
 
 Club quiz base app for EPHS app clubfinder.
 
+OG layout for freshman app. 
+[Repository](https://github.com/EPCompSci/EagleNation)
+
 Original layout for EPHS app.
 
 Created two drawing apps. (submitted more advanced version)
